@@ -69,4 +69,4 @@ install.packages(c("tidyverse", "simukde", "dplyr", "gamlss", "fitdistrplus", "a
 source("distribution_fitting.R")
 ```
 
-This will generate three plots (`histogram_density.png`, `density_plot.png`, `descdist_plot.png`) and print summary statistics and goodness-of-fit results to the console.
+This will generate five plots (`histogram_density.png`, `density_plot.png`, `Cullen and Frey graph.png` ) etc and print summary statistics and goodness-of-fit results to the console.
